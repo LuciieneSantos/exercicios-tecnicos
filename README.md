@@ -37,9 +37,9 @@ Este repositório contém soluções de alguns exercícios técnicos que desenvo
 2. Baixe ou clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-3.Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
  cd seu-repositorio
-4.Execute o script principal:
+4. Execute o script principal:
  python exercicios.py
  
 ## 📝 Observações
